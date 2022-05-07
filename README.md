@@ -1,7 +1,7 @@
 
 # Hi There 👋
 
-My name is Kunal Amladi, and I am a Computer Science & Statistics student at Rutgers University!
+My name is Kunal Amladi, and I am a Computer Science & Statistics student at Rutgers University
 
 - 📚 I am currently a Junior at Rutgers
 - 🔭 In the Summer of 2022, I will be interning as a Data Scientist at CVS Health
