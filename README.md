@@ -4,8 +4,8 @@
 My name is Kunal Amladi, and I am a Computer Science & Statistics student at Rutgers University
 
 - 📚 I am currently a Junior at Rutgers
-- 💻 In the Summer of 2022, I will be interning as a Data Scientist at CVS Health
-- 💻 From Fall 2022 - Spring 2023, I will be interning as a Software Engineer at Atom Finance
+- 💻 Previous Data Science Intern @ CVS Health
+- 💻 Software Engineer Intern @ Atom Finance
 - 🌱 I am always looking for interesting and innovating projects to work on!
 
 
