@@ -1,17 +1,17 @@
 
 # Hi There 👋
 
-My name is Kunal Amladi, and I am a Computer Science & Statistics student at Rutgers University
+My name is Kunal Amladi, and I am a Software Engineer at Palantir Technologies
 
-- 📚 I am currently a Junior at Rutgers
+- 📚 Graduated with a Bachelors in Computer Science from Rutgers University
 - 💻 Previous Data Science Intern @ CVS Health
-- 💻 Software Engineer Intern @ Atom Finance
-- 🌱 I am always looking for interesting and innovating projects to work on!
+- 💻 Previous Data Science Intern @ Aetna
+- 💻 Previous Software Engineer Intern @ Atom Finance
 
 
 # Reach Me At...
 
-Email: kunalamladi@outlook.com
+Email: kunalamladi@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/kunalamladi/
 
